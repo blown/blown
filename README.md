@@ -13,6 +13,7 @@
 </p>
 <p align="left">
 <a href="https://es.linkedin.com/in/julio-caso-de-los-cobos-fidalgo-b6391315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio caso de los cobos fidalgo" height="30" width="40" /></a>
+<a href="https://github.com/blown"> <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="GitHub Logo" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
